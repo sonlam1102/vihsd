@@ -6,7 +6,7 @@ Please contact this email: sonlt@uit.edu.vn (Mr. Son Thanh Luu) for the data
 This dataset contains 33,400 annotated comments used for hate speech detection on social network sites.  
 Label: CLEAN (non hate), OFFENSIVE and HATE
 
-To understand more about the dataset, please read this paper: https://arxiv.org/abs/2103.11528
+To understand more about the dataset, please read this paper: [A Large-Scale Dataset for Hate Speech Detection on Vietnamese Social Media Texts](https://arxiv.org/abs/2103.11528)
 
 The source codes are written in python with Jupyter notebook format. It is easy to run by Jupyter notebook or Google colab. 
 
@@ -15,6 +15,24 @@ The source codes are written in python with Jupyter notebook format. It is easy 
 
 **Please cite the following paper if you use this dataset:**
 
-Luu S.T., Nguyen K.V., Nguyen N.LT. (2021) A Large-Scale Dataset for Hate Speech Detection on Vietnamese Social Media Texts. In: Fujita H., Selamat A., Lin J.CW., Ali M. (eds) Advances and Trends in Artificial Intelligence. Artificial Intelligence Practices. IEA/AIE 2021. Lecture Notes in Computer Science, vol 12798. Springer, Cham. https://doi.org/10.1007/978-3-030-79457-6_35
+```
+@InProceedings{10.1007/978-3-030-79457-6_35,
+author="Luu, Son T.
+and Nguyen, Kiet Van
+and Nguyen, Ngan Luu-Thuy",
+editor="Fujita, Hamido
+and Selamat, Ali
+and Lin, Jerry Chun-Wei
+and Ali, Moonis",
+title="A Large-Scale Dataset for Hate Speech Detection on Vietnamese Social Media Texts",
+booktitle="Advances and Trends in Artificial Intelligence. Artificial Intelligence Practices",
+year="2021",
+publisher="Springer International Publishing",
+address="Cham",
+pages="415--426",
+abstract="In recent years, Vietnam witnesses the mass development of social network users on different social platforms such as Facebook, Youtube, Instagram, and Tiktok. On social media, hate speech has become a critical problem for social network users. To solve this problem, we introduce the ViHSD - a human-annotated dataset for automatically detecting hate speech on the social network. This dataset contains over 30,000 comments, each comment in the dataset has one of three labels: CLEAN, OFFENSIVE, or HATE. Besides, we introduce the data creation process for annotating and evaluating the quality of the dataset. Finally, we evaluate the dataset by deep learning and transformer models.",
+isbn="978-3-030-79457-6"
+}
+```
 
 **_Please note that this dataset is used only for research purposes only_**
