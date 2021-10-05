@@ -35,4 +35,4 @@ isbn="978-3-030-79457-6"
 }
 ```
 
-**_Please note that this dataset is used only for research purposes only_**
+**_Please note that this dataset is used only for research purposes**
