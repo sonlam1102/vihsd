@@ -13,6 +13,9 @@ The source codes are written in python with Jupyter notebook format. It is easy 
 - The deep neural networks includes: TextCNN and GRU. Code stored in file: _ViHSD_DNN.jpynb_    
 - The transformer models includes: m-bert cased, m-bert uncased, xlm-r, and DistilBERT. Code stored in file: _ViHSD_multilingual_Transformers.ipynb_     
 
+** To access the dataset, please refer to this link: https://huggingface.co/datasets/sonlam1102/vihsd   
+
+
 **Please cite the following paper if you use this dataset:**
 
 ```
